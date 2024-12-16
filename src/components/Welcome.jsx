@@ -19,4 +19,3 @@ function Welcome() {
 
 export default Welcome;
 
-// 32:02
